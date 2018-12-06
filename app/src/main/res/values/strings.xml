@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainActivityDemo</string>
+    <string name="username">Username</string>
+    <string name="number">Number</string>
+    <string name="save">SAVE</string>
+    <string name="get">GET</string>
+</resources>
